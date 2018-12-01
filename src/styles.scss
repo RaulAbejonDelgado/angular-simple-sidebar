@@ -1,1 +1,27 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    overflow-x: hidden;
+}
+
+.cabecera{
+    background: teal;
+    margin-bottom: 0px;
+    margin-bottom: -20px;
+}
+header{
+    width: 101%;
+    margin-top: -15px;
+    margin-left: -8px;
+}
+i{
+    margin-left: 10px;
+}
+
+#siderbar-wrapper{
+    margin-top: -25px !important;
+}
+.cabecera > p {
+    margin-bottom: -2vh;
+}
+
+
